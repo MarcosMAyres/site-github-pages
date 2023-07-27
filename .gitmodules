@@ -1,0 +1,21 @@
+[submodule "project-zoo-functions"]
+	path = project-zoo-functions
+	url = git@github.com:tryber/sd-034-project-zoo-functions.git
+[submodule "project-trybewarts"]
+	path = project-trybewarts
+	url = git@github.com:tryber/sd-034-project-trybewarts.git
+[submodule "project-js-unit-tests"]
+	path = project-js-unit-tests
+	url = git@github.com:tryber/sd-034-project-js-unit-tests.git
+[submodule "project-pixels-art"]
+	path = project-pixels-art
+	url = git@github.com:tryber/sd-034-project-pixels-art.git
+[submodule "project-color-guess"]
+	path = project-color-guess
+	url = git@github.com:tryber/sd-034-project-color-guess.git
+[submodule "project-supermercado-pirilampo"]
+	path = project-supermercado-pirilampo
+	url = git@github.com:tryber/sd-034-supermercado-pirilampo.git
+[submodule "project-lessons-learned"]
+	path = project-lessons-learned
+	url = git@github.com:tryber/sd-034-project-lessons-learned.git
