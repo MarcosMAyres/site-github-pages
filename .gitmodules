@@ -19,3 +19,6 @@
 [submodule "project-lessons-learned"]
 	path = project-lessons-learned
 	url = git@github.com:tryber/sd-034-project-lessons-learned.git
+[submodule "portifolio"]
+	path = portifolio
+	url = git@github.com:MarcosMAyres/MarcosMAyres.github.io.git
